@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>add.svg</file>
+        <file>article.svg</file>
+        <file>article-white.svg</file>
+        <file>delete.svg</file>
+        <file>deploy.svg</file>
+        <file>deploy-white.svg</file>
+        <file>done.svg</file>
+        <file>done-green.svg</file>
+        <file>image.svg</file>
+        <file>left.svg</file>
+        <file>logo.png</file>
+        <file>preview.svg</file>
+        <file>search.svg</file>
+        <file>setting.svg</file>
+        <file>setting-white.svg</file>
+        <file>source.svg</file>
+    </qresource>
+</RCC>

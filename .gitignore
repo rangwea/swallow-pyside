@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+tests/.swallow
+build
+dist
+.eggs
+*.app
+*.dist
+*.build
